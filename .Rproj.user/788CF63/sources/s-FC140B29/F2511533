@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "296356713",
+    "hash" : "0",
     "id" : "F2511533",
     "lastKnownWriteTime" : 1568390579,
     "last_content_update" : 1568390579976,
-    "path" : "~/Documents/rwebsite/websiter/config/_default/menus.toml",
+    "path" : "~/Documents/website/websiter/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
         "cursorPosition" : "26,16",
-        "scrollLine" : "12"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

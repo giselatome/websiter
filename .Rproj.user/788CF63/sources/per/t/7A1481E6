@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568390547546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3290707489",
+    "id" : "7A1481E6",
+    "lastKnownWriteTime" : 1568391618,
+    "last_content_update" : 1568391618862,
+    "path" : "~/Documents/rwebsite/websiter/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "93,23",
+        "scrollLine" : "86"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

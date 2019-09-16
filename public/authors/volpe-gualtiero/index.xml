@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volpe, Gualtiero | Dr Gisela Tomé Lourido</title>
+    <link>/authors/volpe-gualtiero/</link>
+      <atom:link href="/authors/volpe-gualtiero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volpe, Gualtiero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Volpe, Gualtiero</title>
+      <link>/authors/volpe-gualtiero/</link>
+    </image>
+    
+    <item>
+      <title>Gesture mimicry in expression of laughter</title>
+      <link>/publication/2015griffin/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015griffin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

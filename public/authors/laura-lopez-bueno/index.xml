@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura López Bueno | Dr Gisela Tomé Lourido</title>
+    <link>/authors/laura-lopez-bueno/</link>
+      <atom:link href="/authors/laura-lopez-bueno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura López Bueno</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Laura López Bueno</title>
+      <link>/authors/laura-lopez-bueno/</link>
+    </image>
+    
+    <item>
+      <title>The role of early experience and continued language use in bilingual speech production: A study of Galician and Spanish mid vowels by Galician-Spanish bilinguals</title>
+      <link>/publication/2019mayr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019mayr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

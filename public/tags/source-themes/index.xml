@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Dr Gisela Tomé Lourido</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Effects of language background on the development of sociolinguistic awareness: The perception of accent variation in monolingual and multilingual 5: The 7-year-old children</title>
+      <link>/publication/2019evans/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of language dominance switch in bilingual: Galician new speakers&#39; speech production and perception</title>
+      <link>/publication/2019tomelourido/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019tomelourido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of early experience and continued language use in bilingual speech production: A study of Galician and Spanish mid vowels by Galician-Spanish bilinguals</title>
+      <link>/publication/2019mayr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019mayr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Os neofalantes galegos no contexto europeo: A produción e a percepción da fala</title>
+      <link>/publication/2017tomelourido/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017tomelourido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture mimicry in expression of laughter</title>
+      <link>/publication/2015griffin/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015griffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching language dominance for ideological reasons: A study of Galician new speakers speech production and perception</title>
+      <link>/publication/2015tomelourido/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015tomelourido/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

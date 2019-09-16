@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Dr Gisela Tomé Lourido</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Effects of language background on the development of sociolinguistic awareness: The perception of accent variation in monolingual and multilingual 5: The 7-year-old children</title>
+      <link>/publication/2019evans/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of language dominance switch in bilingual: Galician new speakers&#39; speech production and perception</title>
+      <link>/publication/2019tomelourido/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019tomelourido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of early experience and continued language use in bilingual speech production: A study of Galician and Spanish mid vowels by Galician-Spanish bilinguals</title>
+      <link>/publication/2019mayr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019mayr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

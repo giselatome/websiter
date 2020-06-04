@@ -9,7 +9,7 @@ address:
 all_day: fakse
 authors: 
 - admin
-date: "2020-02-27T13:00:00Z""
+date: "2020-02-27T13:00:00Z"
 date_end: 
 event: Lunch Talk at Glasgow University Laboratory of Phonetics (GULP)
 event_url: 

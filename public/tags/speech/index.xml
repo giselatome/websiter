@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech | Dr Gisela Tomé Lourido</title>
+    <link>/tags/speech/</link>
+      <atom:link href="/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>speech</title>
+      <link>/tags/speech/</link>
+    </image>
+    
+    <item>
+      <title>Eye-up! Using eye-tracking to investigate the role of regional variation in spoken word recognition.</title>
+      <link>/talk/baap2020/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/baap2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short vowels in Central Dhofari Mehri.</title>
+      <link>/talk/language_and_nature_june2020/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/language_and_nature_june2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of accent variation in monolingual and bilingual speech processing.</title>
+      <link>/talk/glasgow2020/</link>
+      <pubDate>Thu, 27 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/talk/glasgow2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

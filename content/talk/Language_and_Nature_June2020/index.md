@@ -13,9 +13,9 @@ authors:
 - Barry Heselwood
 - Abdullah al-Mahri
 date: "2020-06-02T13:00:00Z"
-date_end: 
-event: Online workshop: Language and/or Nature in Southern Arabia
-event_url: 
+date_end:
+event: "Online workshop: Language and Nature in Southern Arabia."
+event_url:
 featured: false
 image:
   caption: 

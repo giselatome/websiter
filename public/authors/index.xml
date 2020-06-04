@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Gisela Tomé Lourido is a Lecturer in Sociophonetics in the Linguistics and Phonetics department at the University of Leeds.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>Bronwen G. Evans</title>
       <link>/authors/bronwen-g.-evans/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/bronwen-g.-evans/</guid>
       <description></description>
     </item>
@@ -32,8 +32,32 @@
     <item>
       <title>Robert Lennon</title>
       <link>/authors/robert-lennon/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/robert-lennon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdullah al-Mahri</title>
+      <link>/authors/abdullah-al-mahri/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/authors/abdullah-al-mahri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barry Heselwood</title>
+      <link>/authors/barry-heselwood/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/authors/barry-heselwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Janet Watson</title>
+      <link>/authors/janet-watson/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/authors/janet-watson/</guid>
       <description></description>
     </item>
     

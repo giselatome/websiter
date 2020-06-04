@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>eyetracking</title>
+      <link>/tags/eyetracking/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sociophonetics</title>
+      <link>/tags/sociophonetics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/sociophonetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>/tags/speech/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language documentation</title>
+      <link>/tags/language-documentation/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/tags/language-documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mehri</title>
+      <link>/tags/mehri/</link>
+      <pubDate>Tue, 02 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>/tags/mehri/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>

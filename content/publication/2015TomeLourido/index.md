@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Proceedings of the International Congress of Phonetic Sciences*'
-publication_short: "TomeLourido2015"
+publication_short:
 publication_types:
 - "1"
 publishDate: "2015-08-01"

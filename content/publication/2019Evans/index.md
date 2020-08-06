@@ -6,14 +6,14 @@ authors:
 - admin
 date: "2019-05-21"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
 publication: '*Phonetica* 76(2-3), 142-162'
-publication_short: "Evans2019"
+publication_short:
 publication_types:
 - "2"
 publishDate: "2019-05-21"

@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Journal of Phonetics* 72, 1-16'
-publication_short: "Mayr2019"
+publication_short:
 publication_types:
 - "2"
 publishDate: "2019-01-01"

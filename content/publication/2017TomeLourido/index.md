@@ -15,7 +15,7 @@ image:
 #  url: 
 projects: []
 publication: "Cambio lingüístico no galego actual"
-publication_short: "TomeLourido2017"
+publication_short:
 publication_types:
 - "6"
 publishDate: "2017-01-01T00:00:00Z"

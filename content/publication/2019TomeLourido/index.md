@@ -12,7 +12,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Bilingualism: Language and Cognition* 22(3), 637-654'
-publication_short: "TomeLourido2019"
+publication_short:
 publication_types:
 - "2"
 publishDate: "2019-05-01"

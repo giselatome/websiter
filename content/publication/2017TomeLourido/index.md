@@ -12,7 +12,7 @@ image:
   preview_only: false
 #links:
 #- name: Book/Libro
-#  url: http://consellodacultura.gal/publicacion.php?id=4301
+#  url: 
 projects: []
 publication: "Cambio lingüístico no galego actual"
 publication_short: "TomeLourido2017"
@@ -30,7 +30,7 @@ url_pdf: "pdf/TomeLourido2017.pdf"
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://consellodacultura.gal/publicacion.php?id=4301'
 url_video: ''
 ---
 

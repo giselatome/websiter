@@ -10,9 +10,9 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-links:
-- name: Book/Libro
-  url: http://consellodacultura.gal/publicacion.php?id=4301
+#links:
+#- name: Book/Libro
+#  url: http://consellodacultura.gal/publicacion.php?id=4301
 projects: []
 publication: "Cambio lingüístico no galego actual"
 publication_short: "TomeLourido2017"

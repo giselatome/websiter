@@ -1,6 +1,5 @@
 ---
-abstract: 
-Previous research in sociophonetics has shown that perceived information about the
+abstract: Previous research in sociophonetics has shown that perceived information about the
 speaker affects low-level speech perception (e.g., Strand, 1999) and lexical access (e.g.,
 Koops et al., 2008). These experiments often use pictures or words to cue a specific social
 category (e.g., gender, age, region) explicitly, but it is not clear whether brief exposure to
@@ -56,12 +55,12 @@ image:
 location: QMUL and UCL
 math: true
 publishDate: "2019-09-04"
-slides: 
+slides: Poster
 summary: 
 tags: []
 title: "The effect of regional variation on speech processing: evidence from an eye-tracking experiment."
 url_code: ""
-url_pdf: "pdf/Tome-Lourido_Lennon_Evans_poster_UKLVC2019.pdf"
-url_slides: ""
+url_pdf: "https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/06/UKLVC12_paper_54.pdf"
+url_slides: "pdf/Tome-Lourido_Lennon_Evans_poster_UKLVC2019.pdf"
 url_video: ""
 ---

@@ -6,7 +6,7 @@ authors:
 - Martín Vázquez Fernández
 - admin
 date:  "2019-01-01"
-doi: "10.1016/j.wocn.2018.10.007"
+doi: ""
 featured: false
 image:
   caption: 
@@ -14,7 +14,7 @@ image:
   preview_only: false
 projects: []
 publication: '*Journal of Phonetics* 72, 1-16'
-publication_short: "Mayr2019"
+publication_short:
 publication_types:
 - "2"
 publishDate: "2019-01-01"
@@ -29,7 +29,7 @@ url_pdf: http://eprints.whiterose.ac.uk/138585/
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://doi.org/10.1016/j.wocn.2018.10.007"
 url_video: ""
 ---
 

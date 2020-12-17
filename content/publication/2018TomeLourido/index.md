@@ -11,7 +11,7 @@ image:
   preview_only: false
 projects: []
 publication: 'Thesis'
-publication_short: "TomeLourido2018"
+publication_short:
 publication_types:
 - "7"
 publishDate: "2018-01-28"

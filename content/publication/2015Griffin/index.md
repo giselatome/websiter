@@ -16,7 +16,7 @@ image:
   preview_only: false
 projects: []
 publication: '*2015 International Conference on Affective Computing and Intelligent Interaction, ACII 2015*, 677--683'
-publication_short: "Griffin2015"
+publication_short:
 publication_types:
 - "1"
 publishDate: "2015-09-21"

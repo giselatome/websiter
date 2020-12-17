@@ -23,7 +23,7 @@ math: true
 publishDate: "2018-04-13"
 slides: 
 summary: 
-tags: []
+tags: [bilingualism, phonetics, galician, galego]
 title: Effects of language dominance on lexical access in Galician-Spanish bilinguals.
 url_code: ""
 url_pdf: "https://blogs.kent.ac.uk/baap/files/2018/03/BAAP-2018_Tome-LouridoEvans.pdf"

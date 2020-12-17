@@ -23,7 +23,7 @@ image:
 location: Online
 math: true
 publishDate: "2020-06-02"
-slides: 
+slides:
 summary:
 tags: [speech, language documentation, mehri]
 title: "Short vowels in Central Dhofari Mehri."

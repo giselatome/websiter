@@ -22,7 +22,7 @@ math: true
 publishDate: "2018-07-13"
 slides: 
 summary: 
-tags: []
+tags: [fonetica, sociofonetica, galego, bilinguismo]
 title: O papel dos factores sociais no procesamento da fala bilingüe
 url_code: ""
 url_pdf: ""

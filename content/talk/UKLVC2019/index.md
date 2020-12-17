@@ -28,6 +28,6 @@ tags: []
 title: "The effect of regional variation on speech processing: evidence from an eye-tracking experiment."
 url_code: ""
 url_pdf: "https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/06/UKLVC12_paper_54.pdf"
-url_slides: ""
+url_slides: "pdf/Tome-Lourido_Lennon_Evans_poster_UKLVC2019.pdf"
 url_video: ""
 ---

@@ -27,7 +27,7 @@ url_pdf: https://www.internationalphoneticassociation.org/icphs-proceedings/ICPh
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.sciencedirect.com/science/article/pii/S0095447017302553"
 url_video: ""
 ---
 

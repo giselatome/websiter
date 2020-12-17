@@ -30,7 +30,7 @@ url_pdf: "pdf/TomeLourido2017.pdf"
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://consellodacultura.gal/publicacion.php?id=4301'
 url_video: ''
 ---
 

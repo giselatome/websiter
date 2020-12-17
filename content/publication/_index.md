@@ -1,7 +1,7 @@
 ---
+title: "Publications"
 header:
-  caption: ""
-  image: ""
-title: Publications
+  caption: ''
+  image: ''
 view: 4
 ---

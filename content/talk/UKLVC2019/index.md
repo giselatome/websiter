@@ -1,5 +1,29 @@
 ---
-abstract: Previous research in sociophonetics has shown that perceived information about the
+abstract: 
+address:
+  city: London
+  country: UK
+  postcode: ""
+  region: 
+  street: 
+all_day: true
+authors: 
+- admin
+- Robert Lennon
+- Bronwen G. Evans
+date: "2019-09-04"
+date_end: 
+event: UK Language Variation and Change 12 (UKLVC12)
+event_url: https://uklvc12.qmul.ac.uk
+featured: false
+image:
+  caption: 
+  focal_point: Right
+location: QMUL and UCL
+math: true
+publishDate: "2019-09-04"
+slides:
+summary: Previous research in sociophonetics has shown that perceived information about the
 speaker affects low-level speech perception (e.g., Strand, 1999) and lexical access (e.g.,
 Koops et al., 2008). These experiments often use pictures or words to cue a specific social
 category (e.g., gender, age, region) explicitly, but it is not clear whether brief exposure to
@@ -33,34 +57,10 @@ would provide further evidence that information about a talker's accent, even wh
 provided explicitly, is used in speech processing and may support spoken word recognition.
 These findings have implications for our understanding of how social information is used in
 speech processing and episodic models of spoken word perception. 
-address:
-  city: London
-  country: UK
-  postcode: ""
-  region: 
-  street: 
-all_day: true
-authors: 
-- admin
-- Robert Lennon
-- Bronwen G. Evans
-date: "2019-09-04"
-date_end: 
-event: UK Language Variation and Change 12 (UKLVC12)
-event_url: https://uklvc12.qmul.ac.uk
-featured: false
-image:
-  caption: 
-  focal_point: Right
-location: QMUL and UCL
-math: true
-publishDate: "2019-09-04"
-slides: Poster
-summary: 
 tags: []
 title: "The effect of regional variation on speech processing: evidence from an eye-tracking experiment."
 url_code: ""
-url_pdf: "https://uklvc12.qmul.ac.uk/wp-content/uploads/2019/06/UKLVC12_paper_54.pdf"
-url_slides: "pdf/Tome-Lourido_Lennon_Evans_poster_UKLVC2019.pdf"
+url_pdf: "pdf/Tome-Lourido_Lennon_Evans_poster_UKLVC2019.pdf"
+url_slides: ""
 url_video: ""
 ---

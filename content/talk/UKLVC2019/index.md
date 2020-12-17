@@ -1,5 +1,6 @@
 ---
-abstract: Previous research in sociophonetics has shown that perceived information about the
+abstract: 
+Previous research in sociophonetics has shown that perceived information about the
 speaker affects low-level speech perception (e.g., Strand, 1999) and lexical access (e.g.,
 Koops et al., 2008). These experiments often use pictures or words to cue a specific social
 category (e.g., gender, age, region) explicitly, but it is not clear whether brief exposure to
